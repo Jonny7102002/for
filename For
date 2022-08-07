@@ -1,3 +1,23 @@
 #EXTM3U
 #EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24082%20(960%C3%971440)" group-title="Movies", Constantine [2005] 1080p BluRay x264 AVC
 https://www.gsencodes.workers.dev/0:/Copy%20of%20Constantine%20[2005]%201080p%20BluRay%20x264%20AVC%20AC-3%20Only%20Hindi%20Audio%20[Hindi%20Org%20DD%202.0Ch%20-%20224Kbps]%20MSubs%20%E2%87%A8%20%F0%9D%95%8A%F0%9D%95%A6%F0%9D%95%A3@%F0%9D%95%9B%F0%9D%95%9A%F0%9D%95%8B%F0%9F%98%8E.mkv
+#EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24083%20(495%C3%97619)" group-title="Series", The.Sandman.S01E01
+https://www.gsencodes.workers.dev/0:/The.Sandman.S01E01.Sleep.of.the.Just.720p.NF.WEB-DL.AAC2.0.x264-themoviesboss.mkv
+#EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24083%20(495%C3%97619)" group-title="Series", The.Sandman.S01E02
+https://www.gsencodes.workers.dev/0:/The.Sandman.S01E02.Imperfect.Hosts.720p.NF.WEB-DL.AAC2.0.x264-themoviesboss.mkv
+#EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24083%20(495%C3%97619)" group-title="Series", The.Sandman.S01E03
+https://www.gsencodes.workers.dev/0:/The.Sandman.S01E03.Dream.a.Little.Dream.of.Me.720p.NF.WEB-DL.AAC2.0.x264-themoviesboss.mkv
+#EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24083%20(495%C3%97619)" group-title="Series", The.Sandman.S01E04
+https://www.gsencodes.workers.dev/0:/The.Sandman.S01E04.a.Hope.in.Hell.720p.NF.WEB-DL.AAC2.0.x264-themoviesboss.mkv
+#EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24083%20(495%C3%97619)" group-title="Series", The.Sandman.S01E05
+https://www.gsencodes.workers.dev/0:/The.Sandman.S01E05.247.720p.NF.WEB-DL.AAC2.0.x264-themoviesboss.mkv
+#EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24083%20(495%C3%97619)" group-title="Series", The.Sandman.S01E06
+https://www.gsencodes.workers.dev/0:/The.Sandman.S01E06.the.Sound.of.Her.Wings.720p.NF.WEB-DL.AAC2.0.x264-themoviesboss.mkv
+#EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24083%20(495%C3%97619)" group-title="Series", The.Sandman.S01E07
+https://www.gsencodes.workers.dev/0:/The.Sandman.S01E07.the.Dolls.House.720p.NF.WEB-DL.AAC2.0.x264-themoviesboss.mkv
+#EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24083%20(495%C3%97619)" group-title="Series", The.Sandman.S01E08
+https://www.gsencodes.workers.dev/0:/The.Sandman.S01E08.Playing.House.720p.NF.WEB-DL.AAC2.0.x264-themoviesboss.mkv
+#EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24083%20(495%C3%97619)" group-title="Series", The.Sandman.S01E09
+https://www.gsencodes.workers.dev/0:/The.Sandman.S01E09.Collectors.720p.NF.WEB-DL.AAC2.0.x264-themoviesboss.mkv
+#EXTINF: -1 tvg-logo="https://www.gsencodes.workers.dev/0:/24083%20(495%C3%97619)" group-title="Series", The.Sandman.S01E010
+https://www.gsencodes.workers.dev/0:/The.Sandman.S01E10.Lost.Hearts.720p.NF.WEB-DL.AAC2.0.x264-themoviesboss.mkv
